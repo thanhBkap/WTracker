@@ -1,5 +1,4 @@
-## Welcome to Waterminder
-
+## Primo Water - Privacy Policy
 Nice to see you here!
 
 Whenever you have trouble in the app, We will be ready to support you.
