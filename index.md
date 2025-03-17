@@ -5,7 +5,7 @@ Whenever you have trouble in the app, We will be ready to support you.
 
 ### Privacy Policy
 
-Devy built the Waterminder app as a free app. This SERVICE is provided by Devy at no cost and is intended for use as is.
+Devy built the Primo Water app as a free app. This SERVICE is provided by Devy at no cost and is intended for use as is.
 
 ### Security
 
